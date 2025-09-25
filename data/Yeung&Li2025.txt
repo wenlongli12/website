@@ -1,0 +1,1 @@
+@article{Yeung_Li_2025, title={From ‘wild west’ to ‘responsible’ AI testing ‘in-the-wild’: lessons from live facial recognition testing by law enforcement authorities in Europe}, volume={7}, DOI={10.1017/dap.2025.10019}, journal={Data &#38; Policy}, author={Yeung, Karen and Li, Wenlong}, year={2025}, pages={e59}} <div></div>

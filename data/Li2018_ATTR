@@ -1,0 +1,18 @@
+@article{10.1093/idpl/ipy007,
+    author = {Li, Wenlong},
+    title = {A tale of two rights: exploring the potential conflict between right to data portability and right to be forgotten under the General Data Protection Regulation},
+    journal = {International Data Privacy Law},
+    volume = {8},
+    number = {4},
+    pages = {309-317},
+    year = {2018},
+    month = {07},
+    abstract = {Key PointsA joint effort of technology and law has increased the possibility that different data subjects exercise their data protection rights in a conflicting way.The General Data Protection Regulation (GDPR) contains the following rule for settling the conflict between the right to be forgotten (RtBF) and the right to data portability (RtDP). While Article 20(4) prescribes that the exercising of the latter right shall not adversely affect the former, Article 17 appears to suggest a hierarchical relationship between the two.The conflict of GDPR rights reflects a long-standing tension between access and privacy, and the GDPR can therefore be aligned with existing principle and case law.As a general rule, the privacy-protective RtBF is designed to override the privacy-threatening RtDP, yet this rule does not stop the competing rights from being balanced against each other.The RtDP may have various normative underpinnings; in light of its elusive nature, the balancing of rights largely depends upon how data portability is defined in a particular context.},
+    issn = {2044-3994},
+    doi = {10.1093/idpl/ipy007},
+    url = {https://doi.org/10.1093/idpl/ipy007},
+    eprint = {https://academic.oup.com/idpl/article-pdf/8/4/309/27584635/ipy007.pdf},
+}
+
+
+
